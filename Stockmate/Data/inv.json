@@ -1,0 +1,47 @@
+{
+    "gudang": {
+        "Apel": {
+            "stok": 3,
+            "kategori": "Makanan",
+            "harga_modal": 20000.0,
+            "harga_jual": 30000.0,
+            "tanggal_input": "2025-05-28 21:31:53",
+            "tanggal_kadaluarsa": "2025-06-07"
+        },
+        "Susu": {
+            "stok": 0,
+            "kategori": "Minuman",
+            "harga_modal": 15000.0,
+            "harga_jual": 20000.0,
+            "tanggal_input": "2025-05-29 13:39:04",
+            "tanggal_kadaluarsa": "2025-06-01"
+        },
+        "Jam": {
+            "stok": 1,
+            "kategori": "Elektronik",
+            "harga_modal": 20000.0,
+            "harga_jual": 50000.0,
+            "tanggal_input": "2025-05-29 13:39:33"
+        }
+    },
+    "toko": {
+        "Apel": {
+            "stok": 5,
+            "kategori": "Makanan",
+            "harga_modal": 20000.0,
+            "harga_jual": 30000.0,
+            "diskon": 5.0,
+            "tanggal_input": "2025-05-28 21:31:53",
+            "tanggal_kadaluarsa": "2025-06-07"
+        },
+        "Susu": {
+            "stok": 15,
+            "kategori": "Minuman",
+            "harga_modal": 15000.0,
+            "harga_jual": 20000.0,
+            "diskon": 0.0,
+            "tanggal_input": "2025-05-29 13:39:04",
+            "tanggal_kadaluarsa": "2025-06-01"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "super_admin": {
+        "password": "4e4c56e4a15f89f05c2f4c72613da2a18c9665d4f0d6acce16415eb06f9be776",
+        "role": "super_admin",
+        "full_name": "Super Administrator",
+        "email": "superadmin@tokoku.com",
+        "created_date": "2025-05-29 16:51:26",
+        "last_login": "2025-05-29 16:51:29",
+        "permissions": [
+            "manage_users",
+            "manage_admins",
+            "manage_inventory",
+            "view_reports",
+            "system_settings",
+            "backup_restore"
+        ],
+        "status": "active"
+    },
+    "admin": {
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "role": "admin",
+        "full_name": "Administrator Toko",
+        "email": "admin@tokoku.com",
+        "created_date": "2025-05-29 16:51:26",
+        "last_login": "2025-05-29 18:45:50",
+        "permissions": [
+            "manage_inventory",
+            "process_transactions",
+            "view_sales_reports",
+            "manage_customers"
+        ],
+        "status": "active",
+        "created_by": "super_admin"
+    },
+    "yumna": {
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "role": "user",
+        "full_name": "Yumna Haya Aqilah",
+        "email": "yumna@gmail.com",
+        "phone": "0293823112",
+        "address": "malabar",
+        "created_date": "2025-05-29 16:52:22",
+        "last_login": "2025-05-29 16:52:36",
+        "security_question": "Apa nama hewan peliharaan pertama Anda?",
+        "security_answer": "2703783feed2b8f15daa0d72c78090544e9a21c5816a3de7032477ffc8ebe714",
+        "status": "active",
+        "loyalty_points": 0,
+        "total_purchases": 0,
+        "preferred_categories": []
+    },
+    "nayss": {
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "role": "user",
+        "full_name": "naya",
+        "email": "naya@gmail.com",
+        "phone": "0293818173731",
+        "address": "bangbarung",
+        "created_date": "2025-05-29 18:42:28",
+        "last_login": "2025-05-29 18:45:08",
+        "security_question": "Di kota mana Anda dilahirkan?",
+        "security_answer": "b886c31ad0d1f7ef3c4622cb1e2ce5334fe7ad2817dcd549c7674a5d257ebdc5",
+        "status": "active",
+        "loyalty_points": 0,
+        "total_purchases": 0,
+        "preferred_categories": []
+    }
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "id_pesanan": "d53f5579-d522-4885-b20d-6ae08c80f5b9",
+        "nama_pembeli": "yumna",
+        "waktu": "2025-05-29 13:41:12",
+        "pesanan": [
+            {
+                "produk": "Susu",
+                "jumlah": 5,
+                "harga_satuan": 20000.0,
+                "diskon": 0.0
+            },
+            {
+                "produk": "Apel",
+                "jumlah": 2,
+                "harga_satuan": 30000.0,
+                "diskon": 5.0
+            }
+        ],
+        "status": "confirmed"
+    },
+    {
+        "id_pesanan": "407c7e28-7266-4a1b-9ba8-55c41b757cff",
+        "nama_pembeli": "Nayss",
+        "waktu": "2025-05-29 18:43:43",
+        "pesanan": [
+            {
+                "produk": "Apel",
+                "jumlah": 20,
+                "harga_satuan": 30000.0,
+                "diskon": 5.0
+            }
+        ],
+        "status": "confirmed"
+    },
+    {
+        "id_pesanan": "ae28a1a2-9333-4c8f-b86a-ca47c64edb04",
+        "nama_pembeli": "Nayss",
+        "waktu": "2025-05-29 18:45:31",
+        "pesanan": [
+            {
+                "produk": "Jam",
+                "jumlah": 1,
+                "harga_satuan": 50000.0,
+                "diskon": 5.0
+            }
+        ],
+        "status": "confirmed"
+    }
+]
